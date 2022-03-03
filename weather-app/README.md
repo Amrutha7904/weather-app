@@ -17,10 +17,6 @@ A simple Weather App for entering a Location to check weather condition .
 
 
 
-## Live app
-
-To view and test the app you can visit this link.(https://amrutha7904.github.io/loginregister/#)
-
 
 ## Functionalities
 
